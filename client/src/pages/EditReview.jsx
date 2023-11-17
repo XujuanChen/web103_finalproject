@@ -44,8 +44,8 @@ const EditReview = ({data, api_url}) => {
             body: JSON.stringify(review)
         }
         
-        await fetch(`${api_url}/api/reviews/` + id, options)
-        window.location.href = `/`
+        await fetch(`${api_url}/api/reviews/` + review_id, options)
+        window.location.href = `/browse`
     }
 
 
@@ -58,6 +58,7 @@ const EditReview = ({data, api_url}) => {
         
         await fetch(`${api_url}/api/reviews/`+ id, options)
         window.location.href = `/`
+
     }
 
     return (

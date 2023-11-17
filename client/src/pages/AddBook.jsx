@@ -40,9 +40,9 @@ const AddBook = ({user, api_url}) => {
             },
             body: JSON.stringify(book)
         }
-
         await fetch(`${api_url}/api/books`, options)
 
+        await fetch(`${api_url}/api/books`, options)
         window.location.href = '/browse'
 
     }
