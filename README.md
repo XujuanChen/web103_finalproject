@@ -78,7 +78,7 @@ Here's a walkthrough of implemented required features:
 
 
 
-
+<img src='demo.gif' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
