@@ -71,11 +71,11 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 
 ## Final Demo GIF
 
-🔗 [Here's a GIF walkthrough of the final project](👉🏾👉🏾👉🏾 
+🔗 [Here's a GIF walkthrough of the final project] 👉🏾👉🏾👉🏾 
+
+https://github.com/XujuanChen/web103_finalproject/blob/main/demo.gif
 
 <img src='demo.gif' />
-
-)
 
 ## Reflection
 
