@@ -4,7 +4,7 @@ CodePath WEB103 Final Project
 
 Designed and developed by: Xujuan Chen & Yevheniya Solomyana
 
-🔗 Link to deployed app:
+🔗 Link to deployed app: https://readrave.up.railway.app/
 
 ## About
 
@@ -46,7 +46,7 @@ Complete all of the baseline features. These features use the core skills develo
 Backend Features
 
 - [✅] The web app implements at least one of each of the following database relationships in Postgres:
-    - [ ] one-to-many 
+    - [✅] one-to-many 
     - [✅] many-to-many with a join table 
 - [✅] The web app implements a well-designed RESTful API that:
     - [✅] Can respond to at least one of each type of request: GET, POST, PATCH, and DELETE.
@@ -69,7 +69,7 @@ Frontend Features
 Choose two custom features to include in your app. These features will make your app stand out with a more custom look and functionality.
 
 - [✅] The web app allows filtering and/or sorting as appropriate for your use case.
-- [ ] Data submitted via a POST or PATCH request is validated before the database is updated.
+- [✅] Data submitted via a POST or PATCH request is validated before the database is updated.
 
 
 ## Video Walkthrough
@@ -78,9 +78,7 @@ Here's a walkthrough of implemented required features:
 
 
 
-![reviewbook](https://github.com/XujuanChen/web103_finalproject/assets/109524796/b493a1e4-a02e-4d0f-af88-ee023ff02aeb)
-
-
+<img src='demo.gif' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->

@@ -39,6 +39,7 @@
         "id": 7,
         "name": "The Lord of the Rings",
         "author": "J.R.R. Tolkien",
+        "url": "https://m.media-amazon.com/images/I/31fiP+vzJiL._SY445_SX342_.jpg"
         "description": "An epic fantasy trilogy set in a richly imagined world with a quest to destroy a powerful ring."
     },
     {
