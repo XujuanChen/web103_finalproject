@@ -119,7 +119,7 @@ const createUsersTable = async () => {
       const res = await pool.query(createUsersTableQuery)
       console.log('🎉 users table created successfully')
     }
-    catch (error) {
+    catch (err) {
       console.error('⚠️ error creating users table', err)
     }
   }
@@ -139,7 +139,7 @@ const createUsersTable = async () => {
       const res = await pool.query(createBooksUsersTableQuery)
       console.log('🎉 books_users table created successfully')
     }
-    catch (error) {
+    catch (err) {
       console.error('⚠️ error creating books_users table', err)
     }
   }
